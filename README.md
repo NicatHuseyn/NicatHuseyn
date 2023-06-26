@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/nicathsynv" target="blank"><img src="https://img.shields.io/twitter/follow/nicathsynv?logo=twitter&style=for-the-badge" alt="nicathsynv" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET Core, IOS Development**
+- 🌱 I’m currently learning **C#,ASP.NET Core**
 
 - 💬 Ask me about **C# programming language**
 
@@ -17,8 +17,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nicathsynv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nicathsynv" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nicat-h%c3%bcseynov-4ab8ba218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicat-h%c3%bcseynov-4ab8ba218" height="30" width="40" /></a>
-<a href="https://fb.com/https://m.facebook.com/people/nicath%c3%bcseynov/1000492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/people/nicath%c3%bcseynov/1000492" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nicat-h%C3%BCseynov-4ab8ba218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicat-h%c3%bcseynov-4ab8ba218" height="30" width="40" /></a>
+<a href="https://m.facebook.com/people/NicatH%C3%BCseynov/1000492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/people/nicath%c3%bcseynov/1000492" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
